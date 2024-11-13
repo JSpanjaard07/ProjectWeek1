@@ -148,9 +148,105 @@
 .bigtext-bigbox {
     display: flex;
     flex-direction: column;
+    height: 320px;
 }
 
 .kennismaking-first {
     display: flex;
     flex-direction: row;
+}
+
+.meeloopdag-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #3f2e56;
+    font-size: 52px;
+    margin-left: 50px;
+    font-family: asap;
+}
+
+.smaller-textbox {
+    display: flex;
+    flex-direction: column;
+}
+
+.biedenbox {
+    margin-left: -100px;
+    margin-top: 50px;
+    font-size: 43px;
+    color: #3f2e56;
+    font-family: asap;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 1500px;
+}
+
+.footer-decor {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1920px;
+    height: 168px;
+    background-color: #121E28;
+    bottom: 0;
+    background-color: #6e6eb4;
+    margin-top: 100px;
+}
+
+  .footer-main {
+    display: flex;
+    flex-direction: row;
+    width: 1140px;
+    height: 168px;
+    gap: 150px;
+    background-color: #3f2e56;
+    border-radius: 15px;
+    border-color: #121E28;
+  }
+
+  .contacttext {
+    font-size: 23px;
+    font-weight: 550;
+    line-height: 1.2;
+    font-family: asap;
+    font-optical-sizing: auto;
+    font-style: bolder;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0.5px;
+    margin-left: 200px;
+    margin-top: 70px;
+    text-decoration: none;
+    outline-color: transparent;
+}
+
+  .veelgesteldetext {
+    font-size: 23px;
+    font-weight: 550;
+    line-height: 1.2;
+    font-family: asap;
+    font-optical-sizing: auto;
+    font-style: bolder;
+    color: rgb(255, 255, 255);
+    letter-spacing: 0.5px;
+    margin-top: 70px;
+    text-decoration: none;
+    outline-color: transparent;
+}
+
+  .studiekeuzetext {
+    font-size: 23px;
+    font-weight: 550;
+    line-height: 1.2;
+    font-family: asap;
+    font-optical-sizing: auto;
+    font-style: bolder;
+    color: #ffffff;
+    letter-spacing: 0.5px;
+    margin-top: 70px;
+    text-decoration: none;
+    outline-color: transparent;
 }
