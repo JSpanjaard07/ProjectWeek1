@@ -185,6 +185,8 @@
     width: 1500px;
 }
 
+/* Luca's contribution */
+
 .footer-decor {
     display: flex;
     flex-direction: row;
@@ -249,4 +251,114 @@
     margin-top: 70px;
     text-decoration: none;
     outline-color: transparent;
+}
+
+/* Nicks contribution */
+
+.december-container {
+    display: flex;
+    height: 190px;
+    width: 1920px;
+    flex-direction: row;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    font-weight: 300;
+    color: #3f2e56;
+    gap: 200px;
+    border-bottom: 5px solid #3f2e56;
+}
+
+.december {
+margin-left: 20px;
+font-size: 66px;
+
+}
+
+.datum1 {
+    font-size: 66px; 
+}
+
+.welke-vakantie1 {
+    font-size: 66px; 
+}
+
+.maart-container {
+    display: flex;
+    height: 190px;
+    width: 1920px;
+    flex-direction: row;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    font-weight: 300;
+    color: #3f2e56;
+    gap: 220px;
+    border-bottom: 5px solid #3f2e56;
+}
+
+.maart {
+margin-left: 20px;
+font-size: 66px;
+
+}
+
+.datum2 {
+    font-size: 66px; 
+}
+
+.welke-vakantie2 {
+    font-size: 66px; 
+}
+
+.april-container {
+    display: flex;
+    height: 190px;
+    width: 1920px;
+    flex-direction: row;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    font-weight: 300;
+    color: #3f2e56;
+    gap: 320px;
+    border-bottom: 5px solid #3f2e56;
+}
+
+.april {
+margin-left: 20px;
+font-size: 66px;
+
+}
+
+.datum3 {
+    font-size: 66px; 
+}
+
+.welke-vakantie3 {
+    font-size: 66px; 
+}
+
+.juli-container {
+    display: flex;
+    height: 190px;
+    width: 1920px;
+    flex-direction: row;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    font-weight: 300;
+    color: #3f2e56;
+    gap: 307px;
+    border-bottom: 5px solid #3f2e56;
+}
+
+.juli {
+margin-left: 20px;
+font-size: 66px;
+
+}
+
+.datum4 {
+    font-size: 66px; 
+}
+
+.welke-vakantie4 {
+    font-size: 66px; 
 }
