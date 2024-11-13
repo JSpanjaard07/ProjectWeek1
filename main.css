@@ -205,6 +205,57 @@
     margin-top: 150px;
 }
 
+.dag {
+    width: 300px;
+    height: 835px;
+    display: flex;
+    flex-direction: column;
+}
+
+.uur {
+    height: 150px;
+    width: 100%;
+    border-color: #3f2e56;
+    display: flex;
+    flex-direction: row;
+    border-style: solid;
+    font-size: 30px;
+    font-family: asap;
+    color: #3f2e56;
+}
+
+.date {
+    height: 280px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-color: #3f2e56;
+    border-style: solid;
+    font-size: 30px;
+    font-family: asap;
+    color: #3f2e56;
+}
+
+.times {
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+    font-family: asap;
+    color: #3f2e56;
+}
+
+.lestijden {
+    margin-top: 25px;
+    margin-left: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1700px;
+    height: 835px;
+}
+
 /* Luca's contribution */
 
 .footer-decor {
