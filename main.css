@@ -185,6 +185,26 @@
     width: 1500px;
 }
 
+.harrisbox {
+    color: #3f2e56;
+    font-size: 117px;
+    font-family: asap;
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+
+.trumpbox {
+    font-size: 43px;
+    font-family: asap;
+    color: #3f2e56;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px;
+}
+
 /* Luca's contribution */
 
 .footer-decor {
