@@ -132,3 +132,25 @@
     margin-left: 50px;
     margin-top: 75px;
 }
+
+.interest-box {
+    font-size: 117px;
+    color: #3f2e56;
+    font-family: asap;
+}
+
+.opleiding-box {
+    font-size: 117px;
+    color: #3f2e56;
+    font-family: asap;
+}
+
+.bigtext-bigbox {
+    display: flex;
+    flex-direction: column;
+}
+
+.kennismaking-first {
+    display: flex;
+    flex-direction: row;
+}
