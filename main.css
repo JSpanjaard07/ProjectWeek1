@@ -55,7 +55,7 @@
     flex-direction: row;
     align-items: center;
     height: 140px;
-    width: 1920px;
+    width: 1899px;
 }
 
 .smaller-logo {
@@ -318,7 +318,7 @@
     width: 591px;
     height: 762px;
     margin-top: 100px;
-    margin-right: -100px;
+    margin-right: -80px;
 }
 
 .spacemelden {
@@ -331,7 +331,7 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
-    width: 1920px;
+    width: 1899px;
     height: 168px;
     background-color: #121E28;
     bottom: 0;
@@ -398,7 +398,7 @@
 .december-container {
     display: flex;
     height: 190px;
-    width: 1920px;
+    width: 1899px;
     flex-direction: row;
     align-items: center;
     font-family: Arial, sans-serif;
@@ -425,13 +425,13 @@ font-size: 66px;
 .maart-container {
     display: flex;
     height: 190px;
-    width: 1920px;
+    width: 1899px;
     flex-direction: row;
     align-items: center;
     font-family: Arial, sans-serif;
     font-weight: 300;
     color: #3f2e56;
-    gap: 220px;
+    gap: 210px;
     border-bottom: 5px solid #3f2e56;
 }
 
@@ -452,13 +452,13 @@ font-size: 66px;
 .april-container {
     display: flex;
     height: 190px;
-    width: 1920px;
+    width: 1899px;
     flex-direction: row;
     align-items: center;
     font-family: Arial, sans-serif;
     font-weight: 300;
     color: #3f2e56;
-    gap: 320px;
+    gap: 310px;
     border-bottom: 5px solid #3f2e56;
 }
 
@@ -479,13 +479,13 @@ font-size: 66px;
 .juli-container {
     display: flex;
     height: 190px;
-    width: 1920px;
+    width: 1899px;
     flex-direction: row;
     align-items: center;
     font-family: Arial, sans-serif;
     font-weight: 300;
     color: #3f2e56;
-    gap: 307px;
+    gap: 296px;
     border-bottom: 5px solid #3f2e56;
 }
 
